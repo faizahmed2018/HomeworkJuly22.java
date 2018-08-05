@@ -47,7 +47,7 @@ public class homeWork {
 			break;
 
 		case "boxingGloveArrows":
-			System.out.println("Welcome Superman. You now have access to the Fortress of Solitude files.");
+			System.out.println("Welcome Green Arrow. You now have access to the Fortress of Solitude files.");
 			break;
 
 		default:
